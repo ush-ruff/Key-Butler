@@ -21,6 +21,7 @@
 ### Smart Media Keys
 Intelligent redirection for **SteelSeries Sonar** users:
 - Volume Up/Down/Mute keys are automatically redirected to F13, F14, and F15 when Sonar is running, preventing standard system volume changes from interfering with your mixer.
+> Remember to update the Master Volume Up/Down/Mute keys to F13, F14, and F15 in Sonar.
 
 ### Keybindings
 Use **CapsLock** as a modifier to access the following keys and system modifiers:
